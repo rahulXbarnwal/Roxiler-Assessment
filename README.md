@@ -5,7 +5,7 @@
 https://www.postman.com/supply-cosmologist-35754212/workspace/my-workspace/collection/24605425-1b818416-a6a3-45e7-8c54-04b5599c104f?action=share&creator=24605425
 
 ## Backend Assessment API 
-https://roxiler-backend-assessment.onrender.com/api
+https://roxiler-backend-assessment.onrender.com/
 
 ## React Assessment Deployed Link
 https://roxiler-react-coding-challenge.netlify.app/
